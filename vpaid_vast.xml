@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+   <Ad id="IntegralAds">
+      <InLine>
+         <AdSystem>IntegralAds</AdSystem>
+         <AdTitle>IntegralAds VAST 2.0 Ad Wrapper</AdTitle>
+         <Description />
+         <Impression id="Integral Ad Science"><![CDATA[http://static.adsafeprotected.com/skeleton.gif]]></Impression>
+         <Creatives>
+            <Creative id="xxxxxx" sequence="1">
+               <Linear>
+                  <Duration>00:00:15</Duration>
+                  <VideoClicks>
+                     <ClickThrough />
+                  </VideoClicks>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" width="300" height="250" type="application/x-shockwave-flash" apiFramework="VPAID"><![CDATA[http://static.adsafeprotected.com/IASVideo.swf?IAS_PATH=/fwjsvid/st/62967/10387607/skeleton.js&originalVast=https://ad.doubleclick.net/ddm/pfadx/N4674.2267305DESCK/B10177946.136758384;sz=0x0;ord=705500654;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text/xml]]></MediaFile>
+                     <MediaFile delivery="progressive" width="300" height="250" type="application/x-javascript" apiFramework="VPAID"><![CDATA[http://fw.adsafeprotected.com/IASVideo.js?IAS_PATH=/fwjsvid/st/62967/10387607/skeleton.js&originalVast=https://ad.doubleclick.net/ddm/pfadx/N4674.2267305DESCK/B10177946.136758384;sz=0x0;ord=705500654;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text/xml]]></MediaFile>
+                     <MediaFile delivery="progressive" width="300" height="250" type="application/javascript" apiFramework="VPAID"><![CDATA[http://fw.adsafeprotected.com/IASVideo.js?IAS_PATH=/fwjsvid/st/62967/10387607/skeleton.js&originalVast=https://ad.doubleclick.net/ddm/pfadx/N4674.2267305DESCK/B10177946.136758384;sz=0x0;ord=705500654;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text/xml]]></MediaFile>
+                  </MediaFiles>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+</VAST>
