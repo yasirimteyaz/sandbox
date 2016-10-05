@@ -1,35 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="2.0">
-   <Ad id="310229996">
+<VAST version="2.0">
+   <Ad id="IntegralAds">
       <InLine>
-         <AdSystem>DBM</AdSystem>
-         <AdTitle>In-Stream Video</AdTitle>
-         <Impression><![CDATA[https://googleads4.g.doubleclick.net/pcs/view?xai=AKAOjssh6tuJ97_LdmBlTZjrnwUyamOf1DCj4hhaFZHF9ct87CX4M35esf_xu7zflarRKECeReohbZk&sig=Cg0ArKJSzMTbi5QXpEAlEAE&urlfix=1&adurl=]]></Impression>
+         <AdSystem>IntegralAds</AdSystem>
+         <AdTitle>IntegralAds VAST 2.0 Ad Wrapper</AdTitle>
+         <Description />
+         <Impression id="Integral Ad Science"><![CDATA[http://static.adsafeprotected.com/skeleton.gif]]></Impression>
          <Creatives>
-            <Creative id="74161954" sequence="1">
+            <Creative id="xxxxxx" sequence="1">
                <Linear>
                   <Duration>00:00:15</Duration>
-                  <TrackingEvents>
-                     <Tracking event="start"><![CDATA[https://ad.doubleclick.net/ddm/activity/dc_oe=ChMI0sna1uXAzwIVlIePCh0XJA3OEAAYACCivq4j;met=1;ecn1=1;etm1=0;eid1=11;]]></Tracking>
-                     <Tracking event="firstQuartile"><![CDATA[https://ad.doubleclick.net/ddm/activity/dc_oe=ChMI0sna1uXAzwIVlIePCh0XJA3OEAAYACCivq4j;met=1;ecn1=1;etm1=0;eid1=960584;]]></Tracking>
-                     <Tracking event="midpoint"><![CDATA[https://ad.doubleclick.net/ddm/activity/dc_oe=ChMI0sna1uXAzwIVlIePCh0XJA3OEAAYACCivq4j;met=1;ecn1=1;etm1=0;eid1=18;]]></Tracking>
-                     <Tracking event="thirdQuartile"><![CDATA[https://ad.doubleclick.net/ddm/activity/dc_oe=ChMI0sna1uXAzwIVlIePCh0XJA3OEAAYACCivq4j;met=1;ecn1=1;etm1=0;eid1=960585;]]></Tracking>
-                     <Tracking event="complete"><![CDATA[https://ad.doubleclick.net/ddm/activity/dc_oe=ChMI0sna1uXAzwIVlIePCh0XJA3OEAAYACCivq4j;met=1;ecn1=1;etm1=0;eid1=13;]]></Tracking>
-                     <Tracking event="mute"><![CDATA[https://ad.doubleclick.net/ddm/activity/dc_oe=ChMI0sna1uXAzwIVlIePCh0XJA3OEAAYACCivq4j;met=1;ecn1=1;etm1=0;eid1=16;]]></Tracking>
-                     <Tracking event="unmute"><![CDATA[https://ad.doubleclick.net/ddm/activity/dc_oe=ChMI0sna1uXAzwIVlIePCh0XJA3OEAAYACCivq4j;met=1;ecn1=1;etm1=0;eid1=149645;]]></Tracking>
-                     <Tracking event="pause"><![CDATA[https://ad.doubleclick.net/ddm/activity/dc_oe=ChMI0sna1uXAzwIVlIePCh0XJA3OEAAYACCivq4j;met=1;ecn1=1;etm1=0;eid1=15;]]></Tracking>
-                     <Tracking event="fullscreen"><![CDATA[https://ad.doubleclick.net/ddm/activity/dc_oe=ChMI0sna1uXAzwIVlIePCh0XJA3OEAAYACCivq4j;met=1;ecn1=1;etm1=0;eid1=19;]]></Tracking>
-                  </TrackingEvents>
                   <VideoClicks>
-                     <ClickThrough><![CDATA[https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssh6tuJ97_LdmBlTZjrnwUyamOf1DCj4hhaFZHF9ct87CX4M35esf_xu7zflarRKECeReohbZk&sig=Cg0ArKJSzDCsddgj7Oo4EAE&urlfix=1&adurl=http://albertsons.mywebgrocer.com/MarketLanding%3Fmwgelpcid%3D0ecbdc0d-f151-40fc-82e9-1136750b086c%26geo%3D1%26mwgelpadorigin%3D_pn%3Dopc%7Ca%3DALB%7Ccn%3DOBOO16%7Cmct%3DPR%7Cr%3DADEN%26utm_source%3DOPC%26utm_medium%3DPR%26utm_campaign%3DALB_OBOO16%26dclid%3D%25edclid!]]></ClickThrough>
+                     <ClickThrough />
                   </VideoClicks>
                   <MediaFiles>
-                     <MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="623" scalable="false" maintainAspectRatio="false"><![CDATA[https://gcdn.2mdn.net/videoplayback/id/7da921222bff88cb/itag/18/source/doubleclick_dmm/ratebypass/yes/acao/yes/ip/0.0.0.0/ipbits/0/expire/3617640338/sparams/id,itag,source,ratebypass,acao,ip,ipbits,expire/signature/B65EC1376B37938C82CCA75CD7DFE41AAB2E84A1.305D9259C7D29E8CC77CF3062BC9C39314598660/key/ck2/file/file.mp4]]></MediaFile>
-                     <MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="980" scalable="false" maintainAspectRatio="false"><![CDATA[https://gcdn.2mdn.net/videoplayback/id/7da921222bff88cb/itag/343/source/doubleclick_dmm/ratebypass/yes/acao/yes/ip/0.0.0.0/ipbits/0/expire/3617640354/sparams/id,itag,source,ratebypass,acao,ip,ipbits,expire/signature/867083DCBB0F0657BE06F5DAA9E43CF5AC75284B.31DE7C4EB1F9CF0ED51CF45CF86777FDC0F0C4AA/key/ck2/file/file.mp4]]></MediaFile>
-                     <MediaFile delivery="progressive" width="720" height="406" type="video/mp4" bitrate="704" scalable="false" maintainAspectRatio="false"><![CDATA[https://gcdn.2mdn.net/videoplayback/id/7da921222bff88cb/itag/346/source/doubleclick_dmm/ratebypass/yes/acao/yes/ip/0.0.0.0/ipbits/0/expire/3617640347/sparams/id,itag,source,ratebypass,acao,ip,ipbits,expire/signature/8513C2CCC2E7571668C6A03CA3C0BAEF5D621762.38BB6627944200F855E9FC03485F7732EB9B4B58/key/ck2/file/file.mp4]]></MediaFile>
-                     <MediaFile delivery="progressive" width="640" height="360" type="video/webm" bitrate="667" scalable="false" maintainAspectRatio="false"><![CDATA[https://gcdn.2mdn.net/videoplayback/id/7da921222bff88cb/itag/43/source/doubleclick_dmm/ratebypass/yes/acao/yes/ip/0.0.0.0/ipbits/0/expire/3617640370/sparams/id,itag,source,ratebypass,acao,ip,ipbits,expire/signature/970A97D012A328754A7D20B0FA966D85BA89AF15.242059F6CF2E147B4FFE877EC7684289770C5ECD/key/ck2/file/file.webm]]></MediaFile>
-                     <MediaFile delivery="progressive" width="854" height="480" type="video/webm" bitrate="939" scalable="false" maintainAspectRatio="false"><![CDATA[https://gcdn.2mdn.net/videoplayback/id/7da921222bff88cb/itag/44/source/doubleclick_dmm/ratebypass/yes/acao/yes/ip/0.0.0.0/ipbits/0/expire/3617640359/sparams/id,itag,source,ratebypass,acao,ip,ipbits,expire/signature/67D8F0E792883A80E8414C15B5BD9F08CBA9BA0A.3830F8895CB8502903113BDC4E615E7191BACC/key/ck2/file/file.webm]]></MediaFile>
-                     <MediaFile delivery="progressive" width="256" height="144" type="application/x-mpegURL" bitrate="105" scalable="false" maintainAspectRatio="false"><![CDATA[https://gcdn.2mdn.net/api/manifest/hls_variant/source/doubleclick_dmm/id/7da921222bff88cb/itag/0/playlist_type/LIVE/ip/0.0.0.0/ipbits/0/expire/3617640342/sparams/ip,ipbits,expire,source,id,itag,playlist_type/signature/3102420053CC8A38305960AF2E78B032099633F0.3C1755A11E9285D01AF4571A844975B8BE893E32/key/ck2/file/index.m3u8]]></MediaFile>
+                     <MediaFile delivery="progressive" width="300" height="250" type="application/x-shockwave-flash" apiFramework="VPAID"><![CDATA[http://static.adsafeprotected.com/IASVideo.swf?IAS_PATH=/fwjsvid/st/62967/10387607/skeleton.js&originalVast=https://ad.doubleclick.net/ddm/pfadx/N4674.2267305DESCK/B10177946.136758384;sz=0x0;ord=705500654;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text/xml]]></MediaFile>
+                     <MediaFile delivery="progressive" width="300" height="250" type="application/x-javascript" apiFramework="VPAID"><![CDATA[http://fw.adsafeprotected.com/IASVideo.js?IAS_PATH=/fwjsvid/st/62967/10387607/skeleton.js&originalVast=https://ad.doubleclick.net/ddm/pfadx/N4674.2267305DESCK/B10177946.136758384;sz=0x0;ord=705500654;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text/xml]]></MediaFile>
+                     <MediaFile delivery="progressive" width="300" height="250" type="application/javascript" apiFramework="VPAID"><![CDATA[http://fw.adsafeprotected.com/IASVideo.js?IAS_PATH=/fwjsvid/st/62967/10387607/skeleton.js&originalVast=https://ad.doubleclick.net/ddm/pfadx/N4674.2267305DESCK/B10177946.136758384;sz=0x0;ord=705500654;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text/xml]]></MediaFile>
                   </MediaFiles>
                </Linear>
             </Creative>
