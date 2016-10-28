@@ -1,0 +1,31 @@
+<VAST version="2.0">
+   <Ad id="inmobiVerticalVideo">
+      <InLine>
+         <AdSystem version="1.0">InMobi Ad Network</AdSystem>
+         <AdTitle>VAST 2.0 Vertical Video Linear Ad</AdTitle>
+         <Description>VAST 2.0 Vertical Video Linear Ad</Description>
+         <Impression>https://i.l.inmobicdn.net/studio/asset/1d525131-7a68-4b78-8bd9-43d3a9cc445b.gif?t=impression</Impression>
+         <Creatives>
+            <Creative AdID="inmobiVerticalVideo1">
+               <Linear>
+                  <Duration>00:00:30</Duration>
+                  <VideoClicks>
+                     <ClickThrough><![CDATA[https://www.dove.com]]></ClickThrough>
+                  </VideoClicks>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" type="video/mp4" bitrate="985" width="320" height="568" scalable="true" maintainAspectRatio="true"><![CDATA[http://i.l.inmobicdn.net/adtools/videoads/prod/d6086676643a4d68bc5be2763e3273c7/videos/60a7c0b6-6bb9-4c03-b00f-647e937edcd2/video.720p.mp4]]></MediaFile>
+                  </MediaFiles>
+               </Linear>
+            </Creative>
+            <Creative AdID="inmobiVerticalVideo1Companion">
+               <CompanionAds>
+                  <Companion width="320" height="568">
+                     <StaticResource creativeType="image/jpeg"><![CDATA[http://i.l.inmobicdn.net/adtools/03c58517-74f4-4386-a9b7-1e95f815c84c.png]]></StaticResource>
+                     <CompanionClickThrough><![CDATA[https://www.dove.com]]></CompanionClickThrough>
+                  </Companion>
+               </CompanionAds>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+</VAST>
